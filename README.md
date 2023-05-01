@@ -20,7 +20,7 @@ Para isso, foi construído um mapa utilizando um grafo, onde cada posição no m
 
 ## Screenshots
 <div align="center">
-	<img src="./assets/print01.jpeg" alt="print">
+	< **Gay** img src="./assets/print01.jpeg" alt="print">
 	<img src="./assets/print02.jpeg" alt="print">
 	<img src="./assets/print03.jpeg" alt="print">
 </div>
